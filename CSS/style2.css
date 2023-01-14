@@ -1,0 +1,94 @@
+body {
+  background-color: black;
+}
+
+h1 {
+ 
+  color: #F0E9D2;
+  font-size: 180px;
+  margin: 0px;
+}
+
+h3 {
+  color: #17c5ed;
+  font-size: 50px;
+  margin: 0px;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+}
+
+.paragraph {
+  width: 650px;
+}
+
+.Neil {
+  position: absolute;
+  top: 215px;
+  left: 200px
+}
+
+.first {
+  font-size: 120px;
+}
+
+/*banner*/
+.banner {
+  position: relative;
+ max-width: 90%;
+ height: auto;
+ top: 150px;
+ left: 500px;
+ opacity: .70;
+}
+
+/*about me*/
+.aboutme {
+  color: #F0E9D2;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.box1 {
+  background-color: #17c6ed81;
+ border-style: solid;
+ border-radius: 25px;
+ height: 40px;
+ width: 190px;
+ padding-top: 10px;
+ padding-bottom: 0px;
+ padding-left: 10px;
+ scroll-padding-right: 10px;
+}
+
+.box1:hover {
+  background-color:#17c6edb7 ;
+}
+
+/*Contacts*/
+.cont {
+  color: #F0E9D2;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.box2 { background-color: #17c6ed81;
+  border-style: solid;
+  border-radius: 25px;
+  height: 40px;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  position:absolute;
+ left: 215px;
+ bottom: 0px;
+}
+
+.box2:hover {background-color:#17c6edb7 ;
+}
+
+
+
